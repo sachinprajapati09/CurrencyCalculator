@@ -98,4 +98,10 @@ video {
         min-height: 30vh;
         min-width: 10vh;
     }
+    video { 
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
 }
